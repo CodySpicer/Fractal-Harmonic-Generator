@@ -1,5 +1,5 @@
 # Fractal-Harmonic-Generator
-Generates harmonics based on fractal mathematics, creating infinitely complex and evolving soundscapes.
+The Fractal Harmonic Generator plugin generates harmonics based on fractal mathematics, creating infinitely complex and evolving soundscapes.
 
 Features of the Fractal Harmonic Generator:
 
