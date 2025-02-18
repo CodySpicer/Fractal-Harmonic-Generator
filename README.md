@@ -1,12 +1,17 @@
 # Fractal-Harmonic-Generator
-The Fractal Harmonic Generator plugin generates harmonics based on fractal mathematics, creating infinitely complex and evolving soundscapes.
 
-Features of the Fractal Harmonic Generator:
+Fractal Harmonic Generator  
+Core Concept: Generate evolving harmonics using fractal equations, where sounds mirror self-similar, recursive patterns creating infinitely complex and evolving soundscapes.
 
-Fractal Equation-Based Harmonic Generation: Utilizing fractal algorithms to produce harmonics that evolve in complexity over time.
-Self-Similarity Modulation: Implementing recursive sound structures that mirror fractal patterns, adding depth and variation.
-Chaos Control: A parameter allowing users to adjust the fractal depth and unpredictability, ranging from subtle enhancements to chaotic textures.
+Key features include:  
+• Fractal Equation-Based Harmonic Generation – Use customizable fractal algorithms for increasingly complex harmonic content.  
+• Self-Similarity Modulation – Introduce recursive structures in sound design, with parameters controlling the degree of self-similarity and evolution over time.  
+• Chaos Control – Allow precise adjustment of fractal depth and unpredictability, enabling shifts from subtle textural enhancement to wild, chaotic soundscapes.
 
-The Fractal Harmonic Generator represents a novel approach to sound design, offering musicians and producers a tool to explore new sonic territories through the application of fractal mathematics.
+Additional features:  
+• Parameter Flexibility – Consider offering multiple fractal algorithms (e.g., Mandelbrot-inspired, Julia sets) and iterations, so users can choose their preferred complexity and visual (or audible) structure.  
+• Visual Feedback – Including a real-time graphical display of the fractal pattern can help users understand how parameter changes affect the generated sound.  
+• MIDI Integration & DAW Automation – Enable mapping of fractal controls to MIDI controllers and DAW automation for dynamic performances.  
+• Presets and Save/Load Options – Create a bank of presets for quick starting points along with the ability to save custom settings.
 
 Commercial use is not permitted without explicit permission.
