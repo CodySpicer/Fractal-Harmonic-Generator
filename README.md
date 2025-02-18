@@ -9,9 +9,9 @@ Key features include:
 • Chaos Control – Allow precise adjustment of fractal depth and unpredictability, enabling shifts from subtle textural enhancement to wild, chaotic soundscapes.
 
 Additional features:  
-• Parameter Flexibility – Consider offering multiple fractal algorithms (e.g., Mandelbrot-inspired, Julia sets) and iterations, so users can choose their preferred complexity and visual (or audible) structure.  
+• Parameter Flexibility – Multiple fractal algorithms (Mandelbrot-inspired, Julia sets, etc.) and iterations, so users can choose their preferred complexity and visual (or audible) structure.  
 • Visual Feedback – Including a real-time graphical display of the fractal pattern can help users understand how parameter changes affect the generated sound.  
 • MIDI Integration & DAW Automation – Enable mapping of fractal controls to MIDI controllers and DAW automation for dynamic performances.  
-• Presets and Save/Load Options – Create a bank of presets for quick starting points along with the ability to save custom settings.
+• Presets and Save/Load Options – Bank of presets for quick starting points along with the ability to save custom settings.
 
 Commercial use is not permitted without explicit permission.
